@@ -1,5 +1,6 @@
 Here the variables of the tidy.csv dataset are described.
 They are divided into two classes:
+
 **First** subject and activity groups, upon which the original measurements are splitted and averaged
 
 * subject - 1 to 30, identifies every person whose activity was measured during the experiment
